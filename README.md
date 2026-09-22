@@ -52,3 +52,5 @@ A curated list of links around the blader humanizer skill for Claude Code and Op
 ## Contributing
 
 Open a pull request with a link that appears on the skill's own pages or a linked article, plus one line on why it belongs.
+
+_Last reviewed: 2026-09-22_
